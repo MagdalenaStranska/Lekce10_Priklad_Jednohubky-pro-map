@@ -1,0 +1,1 @@
+# Lekce10_Priklad_Jednohubky-pro-map
